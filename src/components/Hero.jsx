@@ -1,4 +1,4 @@
-import WomanImg from '../img/indian.png'
+import WomanImg from '../img/women.png'
 import { Link } from 'react-router-dom'
 
 const Hero = () => {
